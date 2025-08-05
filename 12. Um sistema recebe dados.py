@@ -12,3 +12,4 @@ print(f"Média: {media:.2f}")
 
 #E se somássemos strings?
 #Seria uma concatenação. Exemplo: "3" + "4" resulta em "34", e não na soma 7.
+
